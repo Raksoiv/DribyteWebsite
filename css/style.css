@@ -70,7 +70,7 @@ a {
 	color: #C93E31;
 }
 a:hover {
-	color: #C93E31;
+	color: #8E8D89;
 }
 a:focus,
 a:active {
@@ -226,7 +226,7 @@ blockquote {
 	background-color: rgba(0, 0, 0, 0.7);
 }
 .translucent-bg.blue:after {
-	background-color: rgba(85, 172, 238, 0.7);
+	background-color: rgba(201, 62, 49, 0.7);
 }
 .translucent-bg .container {
 	z-index: 3;
@@ -316,8 +316,8 @@ blockquote {
 }
 .btn-default:hover {
 	color: #ffffff;
-	background-color: #C93E31;
-	border-color: #C93E31;
+	background-color: #8E8D89;
+	border-color: #8E8D89;
 }
 
 /* Collapse
