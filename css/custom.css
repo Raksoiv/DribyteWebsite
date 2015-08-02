@@ -15,3 +15,17 @@ File Description: Place here your custom CSS styles
 .site-name-and-slogan{
 	margin: 0px 0px 0px 65px;
 }
+
+.bio-dribyte{
+	padding: 10px;
+}
+
+.bio-dribyte:hover{
+	background-color: #C93E31;
+	border-radius: 25px;
+	transition: all 1s ease 0s;
+}
+
+.default-bg.blue{
+	background-color: #333;
+}
