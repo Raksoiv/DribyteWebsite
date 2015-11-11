@@ -7,9 +7,12 @@ Created:November 2014
 License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
 File Description: Place here your custom CSS styles
 */
+textarea {
+    resize: none;
+}
 
 .logo{
-	margin: 10px 10px 0px 0px;
+	margin: 0px 0px 0px 0px;
 }
 
 .site-name-and-slogan{
@@ -20,12 +23,39 @@ File Description: Place here your custom CSS styles
 	padding: 10px;
 }
 
-.bio-dribyte:hover{
-	background-color: #C93E31;
-	border-radius: 25px;
-	transition: all 1s ease 0s;
-}
 
 .default-bg.blue{
 	background-color: #333;
+}
+
+.no-trans .logo{
+	padding-top: 15px;
+}
+
+.fixed-header-on .logo{
+	padding-top: 0px;
+}
+.claseb-logo{
+    margin: 0 auto;
+}
+
+.translucent-bg:after {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+.claseb{
+	color: black;
+	text-align: justify;
+}
+.testimonial .media-heading {
+	color: black;
+	font-weight: bold;
+}
+.translucent-bg.blue:after {
+    background-color: rgba(201, 62, 49, 0.9);
+}
+.banner:after {
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.main-navigation .navbar-default .navbar-nav > li > a{
+	font-weight: 500;
 }
