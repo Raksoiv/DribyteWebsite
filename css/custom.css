@@ -71,3 +71,11 @@ textarea {
 body p {
 	text-align: justify;
 }
+
+.bio-dribyte h3{
+	font-size: 1.4em;
+}
+
+.bio-dribyte .bio-title{
+	height: 45px;
+}
