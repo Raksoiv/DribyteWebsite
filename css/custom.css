@@ -59,6 +59,7 @@ textarea {
 .main-navigation .navbar-default .navbar-nav > li > a{
 	font-weight: 500;
 }
+<<<<<<< HEAD
 .fb-news {
 	padding-bottom: 30px;
 }
@@ -67,6 +68,6 @@ textarea {
     background-color: #ffffff;
     padding: 80px 0;
 }
-body {
+body p {
 	text-align: justify;
 }
