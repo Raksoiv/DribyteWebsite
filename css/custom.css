@@ -59,3 +59,14 @@ textarea {
 .main-navigation .navbar-default .navbar-nav > li > a{
 	font-weight: 500;
 }
+.fb-news {
+	padding-bottom: 30px;
+}
+
+.footer-section .section {
+    background-color: #ffffff;
+    padding: 80px 0;
+}
+body {
+	text-align: justify;
+}
